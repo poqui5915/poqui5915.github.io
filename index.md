@@ -1,5 +1,6 @@
 ## SPACE WAR
 
+## Johnny is a THICCCCCC man who, despite his elaborate and premediated plan to conqueor the galaxy, fails to correctly execute this plan. 
 You can use the [editor on GitHub](https://github.com/poqui5915/poqui5915.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
